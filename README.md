@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bookztron - An E-Commerce Project](https://github.com/Naman-Saxena1/Bookztron-E-Commerce_Book_Store)
 
-- 🌱 Currently in my to-learn list **Webpack, a11y best practices, Jest, Next.js, WebSockets, GraphQL, Tailwind CSS, CSS PreProcessors**
+- 🌱 I want to learn **Webpack, a11y best practices, Jest, Next.js, WebSockets, GraphQL, Tailwind CSS, CSS PreProcessors, WASM, Rust and AWS**
 
 - 📝 I regularly write articles on [https://namansaxena-official.medium.com/](https://namansaxena-official.medium.com/)
 
