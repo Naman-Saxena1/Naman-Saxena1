@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Naman-Saxena1/Github-Readme-assets/main/Hi.gif" width="30px">, I'm Naman Saxena</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Naman-Saxena1/Github-Readme-assets/main/Hi.gif?token=GHSAT0AAAAAABPTYHRVZ6WBBUYOD345CH24YUA5F2A" width="30px">, I'm Naman Saxena</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [Bookztron - An E-Commerce Project](https://github.com/Naman-Saxena1/Bookztron-E-Commerce_Book_Store)
