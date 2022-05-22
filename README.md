@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Naman-Saxena1/Github-Readme-assets/main/Hi.gif" width="30px">, I'm Naman Saxena</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Bookztron - An E-Commerce Project](https://github.com/Naman-Saxena1/Bookztron-E-Commerce_Book_Store)
+- 🔭 I’m currently working on [DSA-CP-and-JS-Practice](https://github.com/Naman-Saxena1/DSA-CP-and-JS-Practice)
 
 - 🌱 I want to learn **Webpack, a11y best practices, Jest, Next.js, WebSockets, GraphQL, Tailwind CSS, CSS PreProcessors, WASM, Rust and AWS**
 
