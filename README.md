@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **namansaxena.official@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1CujRsjcdWSSwH97w4mu5CqkSUbHr1xho](https://drive.google.com/drive/u/0/folders/1CujRsjcdWSSwH97w4mu5CqkSUbHr1xho)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1R8D3YPuV6nMjaII_-S_n9oprYn-bA2S-/view](https://drive.google.com/file/d/1R8D3YPuV6nMjaII_-S_n9oprYn-bA2S-/view)
 
 - ⚡ Fun fact **I am obsessed with milky way and astro photography**
 
