@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Naman Saxena</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full-stack developer</h3>
 
 - 🔭 I’m currently working on [DSA-CP-and-JS-Practice](https://github.com/Naman-Saxena1/DSA-CP-and-JS-Practice)
 
