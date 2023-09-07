@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on [DSA-CP-and-JS-Practice](https://github.com/Naman-Saxena1/DSA-CP-and-JS-Practice)
 
-- 🌱 I want to learn **Webpack, a11y best practices, Jest, Next.js, WebSockets, GraphQL, Tailwind CSS, CSS PreProcessors, WASM, Rust and AWS**
-
 - 📝 I regularly write articles on [https://namansaxena-official.medium.com/](https://namansaxena-official.medium.com/)
 
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **namansaxena.official@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LJd5k_O83Dln4TWsn0B_IPJ-kNWPYk_u/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tEhAthz1bPOXJNSkjtNrr1fL4ozWA7wE/view)
 
 - ⚡ Fun fact **I am obsessed with milky way and astro photography**
 
@@ -20,7 +18,6 @@
 <a href="https://linkedin.com/in/naman-saxena-5460b3188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-saxena-5460b3188" height="30" width="40" /></a>
 <a href="https://medium.com/@namansaxena-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@namansaxena-official" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/naman_saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naman_saxena" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@namansaxenahere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@namansaxenahere" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,6 +32,8 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
