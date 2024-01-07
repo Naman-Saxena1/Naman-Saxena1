@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **namansaxena.official@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fBwqv5rVCRmi-uB8foNpn7y5amSX8pja/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/161ypNq2BogatAk_Jdr0ub3GM_uJZVXaX/view)
 
 - ⚡ Fun fact **I am obsessed with milky way and astro photography**
 
