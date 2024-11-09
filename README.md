@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **namansaxena.official@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18rd0UyH-dv2A-iR9EOR5G5Rjqw7DF4oh/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NW5agpQs-IJv8HEeaNoFUoBjouOKi4ao/view)
 
 - ⚡ Fun fact **I enjoy playing piano in my free time! 🎹**
 
