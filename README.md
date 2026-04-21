@@ -48,6 +48,6 @@
   <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=naman-saxena1&show_icons=true&locale=en"/>
 </p>
